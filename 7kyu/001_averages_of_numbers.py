@@ -1,12 +1,6 @@
 # Averages of numbers
 
 # ---
-# ## Task Description
-# Write a function that takes an array of integer numbers and returns a new array
-# containing the averages of each adjacent pair of numbers. If the input array
-# is empty, has only one element, or is `None`, the function should return an empty array.
-
-# ---
 # ## CodeWars Description
 # #Get the averages of these numbers
 # Write a method, that gets an array of integer-numbers and return an array of the averages
