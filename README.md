@@ -1,4 +1,4 @@
-My CodeWars Solutions
+#My CodeWars Solutions
 This repository showcases my solutions to various coding challenges (katas) from the CodeWars platform. These solutions are primarily for self-improvement and training purposes, reflecting my progress and learning journey. You can find my Codewars profile here.
 
 Python Katas
