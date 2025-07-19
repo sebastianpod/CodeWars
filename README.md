@@ -1,10 +1,13 @@
-#My CodeWars Solutions
-This repository showcases my solutions to various coding challenges (katas) from the CodeWars platform. These solutions are primarily for self-improvement and training purposes, reflecting my progress and learning journey. You can find my Codewars profile here.
+# Codewars
 
-Python Katas
+## My CodeWars Solutions
+
+This repository showcases my solutions to various coding challenges (katas) from the CodeWars platform. These solutions are primarily for self-improvement and training purposes, reflecting my progress and learning journey. You can find my Codewars profile here: https://www.codewars.com/users/sebpod.
+
+## Python Katas
 Here you will find my solutions for CodeWars challenges solved in Python, organized by difficulty level (kyu):
 
-8 kyu
+### 8 kyu
 To square(root) or not to square(root)
 
 ASCII Total
@@ -133,7 +136,7 @@ Twice as old
 
 What's up next
 
-7 kyu
+### 7 kyu
 Averages Of Numbers
 
 Ch4113ng3 2
@@ -210,5 +213,6 @@ Trimming A String
 
 Vowel Count
 
-How to use this repository
+## How to use this repository
+
 Each kata solution is self-contained within its respective language folder. Open the .py file to view the problem description, solution, and examples directly in the code comments.
